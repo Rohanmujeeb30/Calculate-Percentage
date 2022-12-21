@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     static double result;
     static int average;
-    boolean isvalid = false;
 
     ProgressDialog progressDialog;
     @Override
